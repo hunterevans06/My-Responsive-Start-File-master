@@ -367,17 +367,17 @@ nav ul {
 nav ul li {
   flex: 1;
 }
-nav li.active {
-  background-color: rgb(73, 38.8497854077, 0);
+nav ul li.active {
+  background-color: rgb(210.7, 112.1321888412, 0);
 }
-nav a {
+nav ul a {
   display: block;
   padding: 0.75rem;
-  color: white;
+  color: #333;
   text-align: center;
   text-decoration: none;
 }
-nav a:hover {
+nav ul a:hover {
   background-color: rgb(226, 120.2746781116, 0);
 }
 
