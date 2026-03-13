@@ -1,0 +1,13 @@
+{
+  "name": "responsive-start-file",
+  "version": "1.0.0",
+  "description": "Hunter Evans's Sample Start File with SCSS",
+  "scripts": {
+    "sass": "sass scss/styles.scss css/styles.css",
+    "sass:watch": "sass --watch scss:css",
+    "sass:minify": "sass --style=compressed scss/styles.scss css/styles.min.css"
+  },
+  "devDependencies": {
+    "sass": "^1.69.0"
+  }
+}
